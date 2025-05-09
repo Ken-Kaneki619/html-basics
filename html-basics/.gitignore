@@ -1,8 +1,0 @@
-# Ignore Termux and bash files
-.bash_history
-.bashrc
-.gitconfig
-.ssh/
-.termux/
-bin/
-downloads/
